@@ -1,5 +1,5 @@
 <p align="center">
-   https://raw.githubusercontent.com/TheLunaOS/.github/refs/heads/main/logo.png
+  <img src="https://raw.githubusercontent.com/TheLunaOS/.github/refs/heads/main/logo.png" />
 </p>
 
 # LunaOS 🌙
