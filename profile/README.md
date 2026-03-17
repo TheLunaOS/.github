@@ -3,8 +3,6 @@
 </p>
 
 # LunaOS 🌙
-
-## About
 LunaOS is an Android ROM based on LineageOS, focused on bringing new features while maintaining stability.
 
 ## Devices
