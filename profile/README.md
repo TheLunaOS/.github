@@ -14,6 +14,10 @@ LunaOS is an Android ROM based on LineageOS, focused on bringing new features wh
 - **Kultrinhaa_** — Founder & Maintainer
 - **Kyoko** — Developer
 
+## Start building
+- [Manifest](https://github.com/TheLunaOS/manifest)
+- [Vendor](https://github.com/TheLunaOS/vendor_luna)
+
 ## Credits
 - [LineageOS](https://github.com/LineageOS) — Base ROM
 - [AOSP](https://android.googlesource.com) — Android Open Source Project
